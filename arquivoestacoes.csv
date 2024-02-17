@@ -10,8 +10,8 @@ Großhessenlohe,Solln,1
 Solln,Siemeswerke,1
 Siemeswerke,Mittersendling,1.6
 Mittersendling,Harras,2
-Solln,Deisenhoff,14
-Deisenhoff,Sauerlach,2
+Solln,Deisenhofen,14
+Deisenhofen,Sauerlach,2
 Sauerlach,Otterfing,1
 Otterfing,Holzkirchen,1
 Holzkirchen,Kreuzstraße,8
@@ -25,7 +25,7 @@ Wächterhof,Hohennbrunn,1
 Hohennbrunn,Ottobrunn,1
 Ottobrunn,Neubiberg,1
 Neubiberg,Neuperlach Süd,1
-Deisenhoff,Furth,1
+Deisenhofen,Furth,1
 Furth,Taufkirchen,1
 Taufkirchen,Unterhaching,1
 Unterhaching,Fasanapark,1
@@ -34,13 +34,13 @@ Neuperlach Süd,Perlach,2.5
 Perlach,Giesing,3.6
 Fasangarten,Giesing,3
 Giesing,St-Martin-Straße,1
-St-Martin-Straße,Ostbahnhoff,2.5
+St-Martin-Straße,Ostbahnhof,2.5
 Neuperlach Süd,Therese-Giehse-Alle,0.8
 Therese-Giehse-Alle,Neuperlach Zentrum,0.8
 Neuperlach Zentrum,Quidderstraße,0.8
 Quidderstraße,Michaelibad,0.8
 Michaelibad,Insbrücker Ring,1.5
-Insbrücker Ring,Ostbahnhoff,2.5
+Insbrücker Ring,Ostbahnhof,2.5
 Insbrücker Ring,Karl-Preis-Platz,1.5
 Karl-Preis-Platz,Giesing,1
 Giesing,Unterbergstraße,1.5
@@ -48,8 +48,8 @@ Unterbergstraße,Silberhornstraße,1.5
 Silberhornstraße,Kolumbusplatz,2.5
 Kolumbusplatz,Fraunhofestraße,2
 Fraunhofestraße,Sedling Tor,1.5
-Sedling Tor,Hauptbahnhoff,3.5
-Hauptbahnhoff,Ostbahnhoff,23
+Sedling Tor,Hauptbahnhof,3.5
+Hauptbahnhof,Ostbahnhof,23
 Mangfallplatz,St-Quirin-Platz,1.5
 St-Quirin-Platz,Wettersteinplatz,1.5
 Wettersteinplatz,Candidplatz,2
@@ -74,12 +74,12 @@ Partnachplatz,Harras,1.2
 Harras,implerstraße,3.3
 Harras,Donnersbergerbrücke,5
 Donnersbergerbrücke,Hackerbrücke,1.5
-Hackerbrücke,Hauptbahnhoff,3
-Hauptbahnhoff,Karlplatz,2.5
+Hackerbrücke,Hauptbahnhof,3
+Hauptbahnhof,Karlplatz,2.5
 Karlplatz,Marienplatz,1
 Marienplatz,Isator,1.5
 Isator,Rosenheimer Platz,1.3
-Rosenheimer Platz,Ostbahnhoff,2.5
+Rosenheimer Platz,Ostbahnhof,2.5
 Pasing,Laim,2
 Laim,Hirschgarten,1.5
 Hirschgarten,Donnersbergerbrücke,1.6
@@ -95,8 +95,8 @@ Solln,Großhessenlohe,1
 Siemeswerke,Solln,1
 Mittersendling,Siemeswerke,1.6
 Harras,Mittersendling,2
-Deisenhoff,Solln,14
-Sauerlach,Deisenhoff,2
+Deisenhof,Solln,14
+Sauerlach,Deisenhof,2
 Otterfing,Sauerlach,1
 Holzkirchen,Otterfing,1
 Kreuzstraße,Holzkirchen,8
@@ -110,7 +110,7 @@ Hohennbrunn,Wächterhof,1
 Ottobrunn,Hohennbrunn,1
 Neubiberg,Ottobrunn,1
 Neuperlach Süd,Neubiberg,1
-Furth,Deisenhoff,1
+Furth,Deisenhof,1
 Taufkirchen,Furth,1
 Unterhaching,Taufkirchen,1
 Fasanapark,Unterhaching,1
@@ -119,13 +119,13 @@ Perlach,Neuperlach Süd,2.5
 Giesing,Perlach,3.6
 Giesing,Fasangarten,3
 St-Martin-Straße,Giesing,1
-Ostbahnhoff,St-Martin-Straße,2.5
+Ostbahnhof,St-Martin-Straße,2.5
 Therese-Giehse-Alle,Neuperlach Süd,0.8
 Neuperlach Zentrum,Therese-Giehse-Alle,0.8
 Quidderstraße,Neuperlach Zentrum,0.8
 Michaelibad,Quidderstraße,0.8
 Insbrücker Ring,Michaelibad,1.5
-Ostbahnhoff,Insbrücker Ring,2.5
+Ostbahnhof,Insbrücker Ring,2.5
 Karl-Preis-Platz,Insbrücker Ring,1.5
 Giesing,Karl-Preis-Platz,1
 Unterbergstraße,Giesing,1.5
@@ -133,8 +133,8 @@ Silberhornstraße,Unterbergstraße,1.5
 Kolumbusplatz,Silberhornstraße,2.5
 Fraunhofestraße,Kolumbusplatz,2
 Sedling Tor,Fraunhofestraße,1.5
-Hauptbahnhoff,Sedling Tor,3.5
-Ostbahnhoff,Hauptbahnhoff,23
+Hauptbahnhof,Sedling Tor,3.5
+Ostbahnhof,Hauptbahnhof,23
 St-Quirin-Platz,Mangfallplatz,1.5
 Wettersteinplatz,St-Quirin-Platz,1.5
 Candidplatz,Wettersteinplatz,2
@@ -159,12 +159,24 @@ Harras,Partnachplatz,1.2
 implerstraße,Harras,3.3
 Donnersbergerbrücke,Harras,5
 Hackerbrücke,Donnersbergerbrücke,1.5
-Hauptbahnhoff,Hackerbrücke,3
-Karlplatz,Hauptbahnhoff,2.5
+Hauptbahnhof,Hackerbrücke,3
+Karlplatz,Hauptbahnhof,2.5
 Marienplatz,Karlplatz,1
 Isator,Marienplatz,1.5
 Rosenheimer Platz,Isator,1.3
-Ostbahnhoff,Rosenheimer Platz,2.5
+Ostbahnhof,Rosenheimer Platz,2.5
 Laim,Pasing,2
 Hirschgarten,Laim,1.5
 Donnersbergerbrücke,Hirschgarten,1.6
+Laimer Platz,Friedenheimer Straße,1.3
+Friedenheimer Straße,Westendstraße,1.3
+Westendstraße,Heimeranplatz,2
+Heimeranplatz,Schwanthalerhöhe,1.3
+Schwanthalerhöhe,Theresienwiese,2.3
+Theresienwiese,Hauptbahnhof,2
+Friedenheimer Straße,Laimer Platz,1.3
+Westendstraße,Friedenheimer Straße,1.3
+Heimeranplatz,Westendstraße,2
+Schwanthalerhöhe,Heimeranplatz,1.3
+Theresienwiese,Schwanthalerhöhe,2.3
+Hauptbahnhof,Theresienwiese,2
